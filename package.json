@@ -1,0 +1,17 @@
+{
+  "name": "freelancer-management",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Find, price, bid on and track Freelancer.com jobs for a mobile developer — driven by Claude Code.",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "fl": "node --disable-warning=ExperimentalWarning src/cli.ts",
+    "test": "node --disable-warning=ExperimentalWarning --test test/*.test.ts",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}
