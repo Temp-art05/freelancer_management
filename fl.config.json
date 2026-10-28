@@ -1,0 +1,62 @@
+{
+  "jobs": {
+    "44": "Mobile App Development",
+    "58": "iPhone",
+    "59": "Android",
+    "727": "Swift",
+    "1004": "Kotlin",
+    "1067": "iOS Development",
+    "1314": "React Native",
+    "1315": "Flutter",
+    "2158": "Android App Development",
+    "3287": "SwiftUI"
+  },
+  "strongSkills": [
+    "Kotlin",
+    "Swift",
+    "SwiftUI",
+    "Android",
+    "iOS Development",
+    "iPhone",
+    "Flutter",
+    "Mobile App Development",
+    "Android App Development"
+  ],
+  "keywords": [
+    "jetpack compose",
+    "swiftui",
+    "kotlin multiplatform",
+    "kmp",
+    "flutter",
+    "firebase",
+    "in-app purchase",
+    "push notification",
+    "app store",
+    "google play",
+    "bug fix",
+    "crash"
+  ],
+  "avoidKeywords": [
+    "wordpress",
+    "shopify",
+    "logo",
+    "data entry",
+    "seo",
+    "unity",
+    "game",
+    "amazon ads",
+    "backup",
+    "recover"
+  ],
+  "minBudgetUsd": {
+    "fixed": 100,
+    "hourly": 12
+  },
+  "maxBids": 100,
+  "maxAgeHours": 72,
+  "languages": [
+    "en"
+  ],
+  "hourlyRateUsd": 25,
+  "currency": "USD"
+}
